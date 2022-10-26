@@ -1,2 +1,2 @@
 # HackerRank_Solved
-Here I share HackerRank Problems' Solutions
+Here I share HackerRank Problems solutions. 
